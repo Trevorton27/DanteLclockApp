@@ -1,7 +1,14 @@
-body{
+body {
   background-color: coral;
   font-size: 75px;
   font-style: oblique;
   text-align: center;
 }
 
+#time {
+  margin-top: 2em;
+}
+#date {
+  font-size: 60px;
+  margin-top: 0.5em;
+}
